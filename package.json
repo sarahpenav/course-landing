@@ -1,0 +1,20 @@
+{
+  "name": "course-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarahpenav/course-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/sarahpenav/course-landing/issues"
+  },
+  "homepage": "https://github.com/sarahpenav/course-landing#readme"
+}
